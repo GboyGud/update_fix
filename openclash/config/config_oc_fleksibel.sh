@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # @AfthonPc x MahaVPN
 # Join Grup Publik - https://t.me/MahaVPN_Publicgroup
 # Join Grup VIP Dengan Berlangganan VPN Premium, Link PM Telegram @AfthonPc
